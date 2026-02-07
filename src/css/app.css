@@ -29,7 +29,7 @@ body {
 
 .sidebar {
   width: 280px;
-  background-color: #f50a0a; /* Very light cream */
+  background-color: #ece5e5; /* Very light cream */
   border-right: 1px solid rgba(74, 124, 89, 0.1);
   padding: 2rem 1.5rem;
   display: flex;
