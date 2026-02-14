@@ -39,8 +39,7 @@ function App() {
         </div>
       </aside>
 
-      {/* Main Board */}
-                       <Routes>
+        <Routes>
           <Route path="/main" element={<Main />} />
           <Route path="/product" element={<Product />} />
           <Route path="/stock" element={<h1>Stock Page</h1>} />
